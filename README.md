@@ -1,0 +1,1 @@
+# Designing-a-Minimum-Distance-to-Class-Mean-Classifier
